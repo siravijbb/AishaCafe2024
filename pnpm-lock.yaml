@@ -60,9 +60,6 @@ importers:
       svelte-check:
         specifier: ^3.6.0
         version: 3.6.9(postcss-load-config@5.0.3(jiti@1.21.0)(postcss@8.4.38))(postcss@8.4.38)(svelte@4.2.15)
-      svelte-youtube-embed:
-        specifier: ^0.2.3
-        version: 0.2.3
       tailwindcss:
         specifier: ^3.3.6
         version: 3.4.3
@@ -1182,9 +1179,6 @@ packages:
     peerDependencies:
       svelte: ^3.58.0 || ^4.0.0
 
-  svelte-youtube-embed@0.2.3:
-    resolution: {integrity: sha512-+HYK224eJ5tSEM6chZgODuSOuaXqv/l5Xj6tvvjqQfrQzdG33jyjYVNzREXIVTerdWSvyqbm5A2BpL8tdwNhQw==}
-
   svelte@4.2.15:
     resolution: {integrity: sha512-j9KJSccHgLeRERPlhMKrCXpk2TqL2m5Z+k+OBTQhZOhIdCCd3WfqV+ylPWeipEwq17P/ekiSFWwrVQv93i3bsg==}
     engines: {node: '>=16'}
@@ -2264,8 +2258,6 @@ snapshots:
     dependencies:
       svelte: 4.2.15
       turnstile-types: 1.2.1
-
-  svelte-youtube-embed@0.2.3: {}
 
   svelte@4.2.15:
     dependencies:
