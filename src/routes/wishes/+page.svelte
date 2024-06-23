@@ -19,6 +19,8 @@
 	import { Alert, Button } from 'flowbite-svelte';
 	import { InfoCircleSolid } from 'flowbite-svelte-icons';
 	import { fly } from 'svelte/transition';
+	// @ts-ignore
+	import AOS from 'aos';
 
 	////////////////
 	let promise = fetchData();
@@ -58,6 +60,10 @@
 		maxwish: 500,
 		minwish: 6
 	};
+	onMount(() => {
+		fetchData();
+		AOS.init();
+	});
 
 	//////////
 

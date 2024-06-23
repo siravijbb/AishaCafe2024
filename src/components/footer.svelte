@@ -1,5 +1,5 @@
 <footer
-	class="relative mx-auto mt-4 flex w-full max-w-4xl items-center rounded-xl bg-white px-4 pb-8 pt-12 text-sm text-gray-600 sm:text-base md:px-6"
+	class="mt-10 relative mx-auto  flex w-full max-w-4xl items-center rounded-xl bg-white px-4 pb-8 pt-12 text-sm text-gray-600 sm:text-base md:px-6"
 >
 	<div class="grid grid-cols-2">
 		<div class="-mb-7 -mt-10 grid grid-cols-2">

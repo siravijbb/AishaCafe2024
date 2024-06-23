@@ -1,5 +1,12 @@
 <script lang="ts">
 	export let Wishdata: any;
+	// @ts-ignore
+	import AOS from 'aos';
+
+	AOS.init({
+		// Global settings:
+		disable: true // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
+	});
 </script>
 
 <div id="countLimit">

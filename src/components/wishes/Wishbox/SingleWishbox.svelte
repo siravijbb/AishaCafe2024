@@ -1,5 +1,13 @@
 <script lang="ts">
 	export let Wishdata: any;
+	// @ts-ignore
+	import AOS from 'aos';
+	AOS.init({
+		// Global settings:
+		disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
+		once: true
+	});
+	AOS.refreshhard();
 </script>
 
 <div id="countLimit" class="my-auto mt-1 grid grid-cols-1 gap-80 overscroll-none scroll-auto">
