@@ -4,20 +4,20 @@
 	const images = [
 		{
 			title:
-				'ระดมทุนทำป้ายโฆษณา LED Happy Birthday Aisha Project \n' +
+				'ระดมทุนทำป้ายโฆษณา LED Billboard Happy Birthday Aisha Project \n' +
 				'\t\tbirthday cake และร้านน้ำ Chatime เนื่องจากฉลองวันเกิดของ Virtual Idol Aisha',
 			alt:
-				'ระดมทุนทำป้ายโฆษณา LED Happy Birthday Aisha Project',
+				'ระดมทุนทำป้ายโฆษณา LED Billboard Happy Birthday Aisha Project',
 			src: '/Overall/Corousel/AISHARighere.png',
 			imgClass: 'object-contain h-full w-fit rounded-sm',
 			link: '#ProjectInfo'
 		},
 		{
 			title:
-				'ระดมทุนทำป้ายโฆษณา LED Happy Birthday Aisha Project , Happy\n' +
+				'ระดมทุนทำป้ายโฆษณา LED Billboard Happy Birthday Aisha Project , Happy\n' +
 				'\t\tbirthday cake และร้านน้ำ Chatime เนื่องจากฉลองวันเกิดของ Virtual Idol Aisha',
 			alt:
-				'ระดมทุนทำป้ายโฆษณา LED Happy Birthday Aisha Project',
+				'ระดมทุนทำป้ายโฆษณา LED Billboard Happy Birthday Aisha Project',
 			src: '/Overall/Corousel/AISHARighere2.png',
 			imgClass: ' w-auto rounded-sm',
 			link: '#ProjectInfo'

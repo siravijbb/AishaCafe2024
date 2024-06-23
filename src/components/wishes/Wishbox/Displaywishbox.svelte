@@ -1,11 +1,17 @@
 <script lang="ts">
-	export let Wishdata: any;
-	// @ts-ignore
-	import AOS from 'aos';
 
-	AOS.init({
-		// Global settings:
-		disable: true // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
+	import {onMount} from "svelte";
+	import AOS from "aos";
+
+	export let Wishdata: any;
+
+	onMount(() => {
+		AOS.init({
+			// Global settings:
+			disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
+			once: true
+		});
+		AOS.refreshHard()
 	});
 </script>
 

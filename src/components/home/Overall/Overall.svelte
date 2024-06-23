@@ -10,7 +10,7 @@
 		<Youtube id="f6pzEPKrBeo"></Youtube>
 	</div>
 	<p class="mx-auto px-2 pt-4 text-center text-xs md:text-lg">
-		เพื่อระดมทุนทำป้ายโฆษณา LED Happy Birthday Aisha Project, Happy
+		เพื่อระดมทุนทำป้ายโฆษณา LED Billboard Happy Birthday Aisha Project, Happy
 		birthday cake และร้านน้ำ Chatime เนื่องจากฉลองวันเกิดของ Virtual Idol Aisha งบประมาณที่ต้องการ
 		60,000 บาท
 	</p>
@@ -18,7 +18,7 @@
 		<div class="mx-auto my-auto text-center md:text-2xl">
 			<p class="font-bold">✨GOAL✨</p>
 			<ol class="font-bold">
-				<li>LED Screen 40,000 บาท</li>
+				<li>LED Billboard 40,000 บาท</li>
 				<li>Happy birthday cake 47,000 บาท</li>
 				<li>Chatime 60,000 บาท</li>
 			</ol>
@@ -26,7 +26,7 @@
 		<div class="mx-auto md:mx-8">
 			<p class="text-center font-bold">รายละเอียดค่าใช้จ่าย</p>
 			<ul class="mt-1 list-inside list-disc md:mt-0">
-				<li>ค่าเช่าป้ายโฆษณา LED</li>
+				<li>ค่าเช่าป้ายโฆษณา LED Billboard</li>
 				<li>ค่าจ้างนักวาด 2 ภาพ</li>
 				<li>ค่าจ้างนักริกภาพนิ่งเคลื่อนไหว</li>
 				<li>ค่าทำการ์ดวันเกิดไอช่า</li>

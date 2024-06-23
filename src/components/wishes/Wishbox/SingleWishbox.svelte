@@ -1,13 +1,16 @@
 <script lang="ts">
+	import {onMount} from "svelte";
+	import AOS from "aos";
+
 	export let Wishdata: any;
-	// @ts-ignore
-	import AOS from 'aos';
-	AOS.init({
-		// Global settings:
-		disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
-		once: true
+	onMount(() => {
+		AOS.init({
+			// Global settings:
+			disable: true, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
+			once: false
+		});
+		AOS.refreshHard()
 	});
-	AOS.refreshhard();
 </script>
 
 <div id="countLimit" class="my-auto mt-1 grid grid-cols-1 gap-80 overscroll-none scroll-auto">
