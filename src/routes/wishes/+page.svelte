@@ -13,13 +13,14 @@
 	import LayoutHeader from '$components/Head/header.svelte';
 	import HBDwithCOro from '$components/wishes/Header/HBDwithCoro.svelte';
 	import HBDWOCoro from "$components/wishes/Header/HBDWOCoro.svelte";
+	import 'aos/dist/aos.css';
+
 
 
 	///
 	import { Alert, Button } from 'flowbite-svelte';
 	import { InfoCircleSolid } from 'flowbite-svelte-icons';
 	import { fly } from 'svelte/transition';
-	import 'aos/dist/aos.css';
 
 
 	////////////////
