@@ -19,7 +19,7 @@
 	import { Alert, Button } from 'flowbite-svelte';
 	import { InfoCircleSolid } from 'flowbite-svelte-icons';
 	import { fly } from 'svelte/transition';
-	import AOS from 'aos';
+	import 'aos/dist/aos.css';
 
 
 	////////////////
@@ -62,12 +62,6 @@
 	};
 	onMount(() => {
 		fetchData();
-		AOS.init({
-			// Global settings:
-			disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
-			once: true
-		});
-		AOS.refreshHard()
 	});
 
 	//////////
@@ -98,10 +92,7 @@
 	}
 	const siteKey = '1x00000000000000000000AA';
 
-	onMount(() => {
-		fetchData();
-		AOS.init();
-	});
+
 
 	async function Handlefetch() {
 		promise = fetchData();
