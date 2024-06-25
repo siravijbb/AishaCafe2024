@@ -13,6 +13,7 @@
 	import LayoutHeader from '$components/Head/header.svelte';
 	import HBDwithCOro from '$components/wishes/Header/HBDwithCoro.svelte';
 	import HBDWOCoro from "$components/wishes/Header/HBDWOCoro.svelte";
+	import AOS from "aos";
 	import 'aos/dist/aos.css';
 
 
@@ -266,13 +267,6 @@
 								</div>
 							</div>
 							<p class=" my-2 block text-sm text-[#b90e0a]" id="errorRead" />
-							<div class="grid grid-cols-1 gap-2">
-								<div class="mx-auto grid grid-cols-1">
-									<div class="">
-										<Turnstile {siteKey} />
-									</div>
-								</div>
-							</div>
 						</label>
 
 						{#await form}

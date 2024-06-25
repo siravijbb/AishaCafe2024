@@ -19,7 +19,7 @@
 	<div class="mx-auto grid grid-cols-1">
 		<div
 			class="relative flex h-full min-h-48 w-full max-w-[349.333px] justify-self-center overflow-hidden rounded-none bg-aisha p-2 text-black/50 shadow-2xl md:min-h-72"
-			data-aos="fade-in"
+
 			id="one"
 		>
 			<div class="h-full w-full bg-white">
@@ -125,7 +125,7 @@
 	<div class="mx-auto grid grid-cols-1">
 		<div
 			class="relative flex h-full min-h-48 w-full max-w-[349.333px] justify-self-center overflow-hidden rounded-none bg-[#163283] p-2 text-black/50 shadow-2xl md:min-h-72"
-			data-aos="fade-in"
+
 			id="one"
 		>
 			<div class="h-full w-full bg-white">
@@ -231,7 +231,7 @@
 	<div class="mx-auto grid grid-cols-1">
 		<div
 			class="relative flex h-full min-h-48 w-full max-w-[349.333px] justify-self-center overflow-hidden rounded-none bg-[#EB96C2] p-2 text-black/50 shadow-2xl md:min-h-72"
-			data-aos="fade-in"
+
 			id="one"
 		>
 			<div class="h-full w-full bg-white">
@@ -337,7 +337,7 @@
 	<div class="mx-auto grid grid-cols-1">
 		<div
 			class="relative flex h-full min-h-48 w-full max-w-[349.333px] justify-self-center overflow-hidden rounded-none bg-[#ffbc76] p-2 text-black/50 shadow-2xl md:min-h-72"
-			data-aos="fade-in"
+
 			id="one"
 		>
 			<div class="h-full w-full bg-white">
