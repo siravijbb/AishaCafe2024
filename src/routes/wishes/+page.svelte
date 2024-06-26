@@ -300,7 +300,7 @@
 						<div class="mx-auto md:mx-0">
 							<div class="mx-auto text-center md:mx-0 md:text-left">
 								<button
-										class="mt-3 w-full rounded-full bg-aisha p-2 text-white hover:bg-aisha/70 disabled:bg-aisha/30 md:w-fit"
+										class="mt-3 w-full rounded-full bg-aisha p-2 text-white  disabled:bg-aisha/30 md:w-fit"
 										type="submit"
 										disabled={loading}
 								><p>ส่งคำอวยพร</p>
@@ -522,7 +522,7 @@
 						<div class="mx-auto md:mx-0">
 							<div class="mx-auto text-center md:mx-0 md:text-left">
 								<button
-									class="mt-3 w-full rounded-full bg-aisha p-2 text-white hover:bg-aisha/70 disabled:bg-aisha/30 md:w-fit"
+									class="mt-3 w-full rounded-full bg-aisha p-2 text-white  disabled:bg-aisha/30 md:w-fit"
 									type="submit"
 									disabled={loading}
 									><p>ส่งคำอวยพร</p>
