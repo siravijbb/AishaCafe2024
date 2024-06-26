@@ -35,7 +35,7 @@ export const actions: Actions = {
 		const token = signupFormData.get('cf-turnstile-response') as string;
 		const secret = SECRET_KEYS;
 		const { success, errors } = await validateToken(token, secret);
-		console.log("SEACH: \n",signupFormData);
+		console.log('SEACH: \n', signupFormData);
 		if (!success) {
 			return fail(400, {
 				errors: errors,
@@ -45,7 +45,7 @@ export const actions: Actions = {
 			});
 		}
 		let name = signupFormData.get('name');
-		if (typeof name === "string") {
+		if (typeof name === 'string') {
 			name = name.toLowerCase();
 			name = name.trim();
 		}

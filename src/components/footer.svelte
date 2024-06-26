@@ -1,5 +1,5 @@
 <footer
-	class="mt-10 relative mx-auto  flex w-full max-w-4xl items-center rounded-xl bg-white px-4 pb-8 pt-12 text-sm text-gray-600 sm:text-base md:px-6"
+	class="relative mx-auto mt-10 flex w-full max-w-4xl items-center rounded-xl bg-white px-4 pb-8 pt-12 text-sm text-gray-600 sm:text-base md:px-6"
 >
 	<div class="grid grid-cols-2">
 		<div class="-mb-7 -mt-10 grid grid-cols-2">
@@ -130,8 +130,10 @@
 	</div>
 	<div class="mx-4 -mt-3 h-full border-l-2 border-gray-300"></div>
 
-	<p class="absolute right-9 -mt-20 ">© {new Date().getFullYear()} Guppiens Project</p>
-	<p class="absolute right-4 -mt-8 md:right-9 text-xs md:text-base">Website Development by:สิราวิ้จจะบึ</p>
+	<p class="absolute right-9 -mt-20">© {new Date().getFullYear()} Guppiens Project</p>
+	<p class="absolute right-4 -mt-8 text-xs md:right-9 md:text-base">
+		Website Development by:สิราวิ้จจะบึ
+	</p>
 	<p class="absolute right-9 mt-4 text-xs md:text-base">Domain and Picture by:Le'Beau</p>
 	<p class="absolute right-9 mt-16 text-xs md:text-base">Website UI/UX Design by:Puss</p>
 </footer>
@@ -141,17 +143,15 @@
 	@font-face {
 		font-family: 'Barlow Condensed';
 		src: url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Sans+Thai+Looped:wght@100;200;300;400;500;600;700;800;900&display=swap')
-		format('truetype');
+			format('truetype');
 	}
 	@font-face {
 		font-family: 'Noto Sans Thai Looped';
 		src: url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Sans+Thai+Looped:wght@100;200;300;400;500;600;700;800;900&display=swap')
-		format('truetype');
+			format('truetype');
 	}
 
-
 	div {
-		font-family: 'Barlow Condensed','Noto Sans Thai Looped', sans-serif;
-
+		font-family: 'Barlow Condensed', 'Noto Sans Thai Looped', sans-serif;
 	}
 </style>

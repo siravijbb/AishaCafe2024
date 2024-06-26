@@ -79,8 +79,7 @@ export const actions: Actions = {
 			LowerCaseName = name.trim();
 			LowerCaseName = name.toLowerCase();
 		}
-			await start_mongo();
-
+		await start_mongo();
 
 		let count = await bwish.countDocuments();
 		console.log(count);
