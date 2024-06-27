@@ -17,7 +17,7 @@
 <div id="countLimit">
 	<div
 		id="onewish"
-		class="my-auto grid grid-cols-1 gap-5 overscroll-none scroll-auto text-wrap text-pretty px-2 md:grid-cols-2 lg:grid-cols-3"
+		class="my-auto grid grid-cols-1 gap-3 overscroll-none scroll-auto text-wrap text-pretty px-2 md:grid-cols-2 lg:grid-cols-3"
 	>
 		{#each Wishdata.wish as wish (wish.count)}
 			{#if wish.picture == 1}
