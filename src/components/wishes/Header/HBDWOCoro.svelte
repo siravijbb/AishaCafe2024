@@ -9,8 +9,8 @@
 	<h1 class="HEADER mx-auto -mt-1 pb-2 text-center text-2xl">29 July 2024</h1>
 	<div class="font-[itim]">
 		<Corousel /> </div>
-	<hr class="my-4 h-1 bg-aisha" />
-	<h1 class="mx-auto pt-2 text-center text-2xl font-semibold text-aisha md:text-3xl">Aisha Wishes</h1>
+	<hr class="my-2 h-1 bg-aisha" />
+	<h1 class="HEADER mx-auto text-center text-2xl font-semibold text-aisha md:text-3xl">AISHA WISHES</h1>
 	<h1 class="HEADER mx-auto -mt-1 pb-2 text-center text-2xl">ส่งคำอวยพรให้ไอช่ากัน!</h1>
 </div>
 
