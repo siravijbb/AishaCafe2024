@@ -222,7 +222,7 @@
 							<SendGift bind:gift={SeletedGift} />
 							<p class=" my-2 text-sm text-[#b90e0a]" id="errorGift" />
 							<label for="name" class="mt-2 block text-sm font-medium"
-								>รูปกรอบคำอวยพร | Choose your wish frame<sup
+								>รูปกรอบคำอวยพร | Choose your picture<sup
 									><small class="text-red-500">*</small></sup
 								></label
 							>
@@ -438,7 +438,7 @@
 							<SendGift bind:gift={SeletedGift} />
 							<p class=" my-2 text-sm text-[#b90e0a]" id="errorGift" />
 							<label for="name" class="mt-2 block text-sm font-medium"
-								>รูปกรอบคำอวยพร | Choose your wish frame<sup
+								>รูปกรอบคำอวยพร | Choose your picture<sup
 									><small class="text-red-500">*</small></sup
 								></label
 							>
