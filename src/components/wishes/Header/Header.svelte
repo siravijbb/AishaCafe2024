@@ -1,11 +1,16 @@
 <script>
+import Corousel from "$components/home/Corousel/Corousel.svelte";
 </script>
 
 <div class="">
 	<h1 class="HEADER mx-auto pt-2 text-center text-3xl font-semibold text-aisha">
 		AISHA BIRTHDAY WISHES
 	</h1>
-	<h1 class="HEADER mx-auto -mt-1 pb-2 text-center text-2xl">ร่วมเขียนคำอวยพรให้ไอช่า</h1>
+	<h1 class="HEADER mx-auto -mt-1 pb-2 text-center text-2xl">ร่วมเขียนคำอวยพรให้ไอช่ากัน!</h1>
+	<div class="font-[itim]">
+		<Corousel /> </div>
+	<hr class="my-4 h-1 bg-aisha" />
+
 </div>
 
 <style>
