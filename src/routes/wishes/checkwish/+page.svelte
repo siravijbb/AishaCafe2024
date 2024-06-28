@@ -8,7 +8,7 @@
 	export let form: ActionData;
 	let loading = false;
 	let thisForm: HTMLFormElement;
-	const siteKey = '1x00000000000000000000AA';
+	const siteKey = '0x4AAAAAAAdnFdfAri0HgYHh';
 
 	function handleSubmit() {
 		loading = true;

@@ -89,7 +89,7 @@
 			resultElement.innerHTML = '❗ คุณต้องยินยอมด้วย!';
 		}
 	}
-	const siteKey = '1x00000000000000000000AA';
+	const siteKey = '0x4AAAAAAAdnFdfAri0HgYHh';
 
 	async function Handlefetch() {
 		promise = fetchData();
