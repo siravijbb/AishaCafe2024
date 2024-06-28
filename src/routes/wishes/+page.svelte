@@ -107,7 +107,7 @@
 	// 	}
 	// }
 	async function fetchData() {
-		const response = await fetch('api-guppiens.guppiens2024.com/api/Getwishes');
+		const response = await fetch('https://api-guppiens.guppiens2024.com/api/Getwishes');
 		if (response.ok) {
 			const json = await response.json();
 			Wishdata = json.body;
