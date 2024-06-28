@@ -13,14 +13,15 @@
 	import LayoutHeader from '$components/Head/header.svelte';
 	import HBDwithCOro from '$components/wishes/Header/HBDwithCoro.svelte';
 	import HBDWOCoro from '$components/wishes/Header/HBDWOCoro.svelte';
+	import Footer from '$components/wishes/Footer/Footer.svelte';
+	import OFooter from '$components/footer.svelte';
 	import AOS from 'aos';
 	import 'aos/dist/aos.css';
 
 	///
 	import { Alert, Button } from 'flowbite-svelte';
 	import { InfoCircleSolid } from 'flowbite-svelte-icons';
-	import Footer from '$components/wishes/Footer/Footer.svelte';
-	import OFooter from '$components/Footer.svelte';
+
 
 	////////////////
 	let promise = fetchData();
