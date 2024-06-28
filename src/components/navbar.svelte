@@ -13,7 +13,7 @@
 
 	<NavHamburger />
 
-	<NavUl>
+	<NavUl >
 		<NavLi
 			nonActiveClass="outline md:outline-none  outline-offset-2 outline-1 mb-1 md:mb-0 hover:text-primary-700"
 			href="/">Home</NavLi
@@ -32,7 +32,7 @@
 		</NavLi>
 
 		<NavLi
-			nonActiveClass=" outline md:outline-none -ml-7 lg:-ml-0  outline-offset-2 outline-1 mb-1 md:mb-0 hover:text-primary-700"
+			nonActiveClass=" outline md:outline-none md:-ml-7 lg:-ml-0  outline-offset-2 outline-1 mb-1 md:mb-0 hover:text-primary-700"
 			href="/wishes"
 			><div>ส่งและอ่านคำอวยพร</div>
 			<div class="md:text-center">Send and Read Wish</div></NavLi
