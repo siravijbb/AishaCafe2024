@@ -16,7 +16,7 @@
 		fetchData();
 	});
 	async function fetchData() {
-		const response = await fetch('https://api-aishahbd2024backend.netlify.app/api');
+		const response = await fetch('api-guppiens.guppiens2024.com/api');
 		if (response.ok) {
 			const json = await response.json();
 			const Donated = json.body.Donated; // Assuming this is a zero-based index
