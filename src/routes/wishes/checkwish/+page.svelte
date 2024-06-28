@@ -25,7 +25,7 @@
 		maxwish: 500,
 		minwish: 6
 	};
-	let Description = 'Find your wishes to Aisha Vtuber!';
+	let Description = 'Find your wishes to AISHA!';
 
 	function nameInvalid() {
 		const resultElement = document.getElementById('errorName');
@@ -37,7 +37,7 @@
 
 <div class="space-2 mx-auto grid w-full max-w-xl grid-cols-1 rounded-lg bg-gray-200 shadow-lg">
 	<div class="mx-auto h-full w-full rounded-lg bg-white px-2 pb-4 shadow-lg md:mt-2">
-		<LayoutHeader title="HBD Aisha Project 2024" description={Description} />
+		<LayoutHeader title="Happy AISHA 21st Birthday Project " description={Description} />
 		<WebHeader />
 		<form
 			bind:this={thisForm}

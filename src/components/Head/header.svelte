@@ -1,5 +1,5 @@
 <script>
-	export let title = 'Aisha Birthday 2024';
+	export let title = 'Happy AISHA 21st Birthday Project ';
 	export let description = 'Love you Aisha, From Guppiens';
 	export let image = '%sveltekit.assets%/Wish/Guppiens/1.png';
 </script>

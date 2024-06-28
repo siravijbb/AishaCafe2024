@@ -23,7 +23,7 @@
 
 	////////////////
 	let promise = fetchData();
-	let Description = 'Send your wishes to Aisha Vtuber!';
+	let Description = "Send your wishes to Aisha on Her 21'th Birthdays!";
 	export let form: ActionData;
 	let forms: ActionData;
 	let thisForm: HTMLFormElement;
@@ -123,12 +123,12 @@
 
 <div class="space-2 mx-auto grid w-full max-w-xl grid-cols-1 rounded-lg bg-gray-200 shadow-lg">
 	<div class="mx-auto h-full w-full rounded-lg bg-white px-2 pb-4 shadow-lg md:mt-2">
-		<LayoutHeader title="HBD Aisha Project 2024" description={Description} />
+		<LayoutHeader title="Happy AISHA 21st Birthday Project " description={Description} />
 		{#await promise}
 			<WebHeader />
 		{:then { Wishdata }}
 			{#if Wishdata.accepting && !Wishdata.canreadnow}
-				<WebHeader />
+				<HBDwithCOro />
 			{:else if !Wishdata.accepting && !Wishdata.canreadnow}
 				<HBDwithCOro />
 			{:else if Wishdata.accepting && Wishdata.canreadnow}
