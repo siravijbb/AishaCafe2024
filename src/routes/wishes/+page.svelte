@@ -125,10 +125,10 @@
 	<div class="mx-auto h-full w-full rounded-lg bg-white px-2 pb-4 shadow-lg md:mt-2">
 		<LayoutHeader title="Happy AISHA 21st Birthday Project " description={Description} />
 		{#await promise}
-			<WebHeader />
+			<HBDwithCOro />
 		{:then { Wishdata }}
 			{#if Wishdata.accepting && !Wishdata.canreadnow}
-				<HBDwithCOro />
+				<HBDWOCoro />
 			{:else if !Wishdata.accepting && !Wishdata.canreadnow}
 				<HBDwithCOro />
 			{:else if Wishdata.accepting && Wishdata.canreadnow}
