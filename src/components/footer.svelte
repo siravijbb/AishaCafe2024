@@ -132,10 +132,10 @@
 
 	<p class="absolute right-9 -mt-20">© {new Date().getFullYear()} Guppiens Project</p>
 	<p class="absolute right-4 -mt-8 text-xs md:right-9 md:text-base">
-		Website Development by:สิราวิ้จจะบึ
+		Web Dev And Redesign by:สิราวิ้จจะบึ
 	</p>
 	<p class="absolute right-9 mt-4 text-xs md:text-base">Domain and Picture by:Le'Beau</p>
-	<p class="absolute right-9 mt-16 text-xs md:text-base">Website UI/UX Design by:Puss</p>
+	<p class="absolute right-9 mt-16 text-xs md:text-base">Initial UI/UX Design by:Puss</p>
 </footer>
 
 <style>

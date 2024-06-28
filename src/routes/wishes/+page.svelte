@@ -19,7 +19,8 @@
 	///
 	import { Alert, Button } from 'flowbite-svelte';
 	import { InfoCircleSolid } from 'flowbite-svelte-icons';
-	import { fly } from 'svelte/transition';
+	import Footer from '$components/wishes/Footer/Footer.svelte';
+	import OFooter from '$components/Footer.svelte';
 
 	////////////////
 	let promise = fetchData();
@@ -730,6 +731,11 @@
 		{/if}
 	{/await}
 {/key}
+<OFooter />
+
+<div class="mt-16">
+<Footer />
+</div>
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');

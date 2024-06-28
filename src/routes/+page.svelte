@@ -9,6 +9,7 @@
 	let promise = fetchData();
 	import { onMount } from 'svelte';
 	import DonateInfo from '$components/home/Donate/DonateInfo.svelte';
+	import Footer from "$components/footer.svelte";
 	let totalDonated = 40000;
 	let totalRequired = 60000;
 	onMount(() => {
@@ -53,3 +54,4 @@
 		<Joinus />
 	</div>
 </div>
+<Footer />
