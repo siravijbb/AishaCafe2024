@@ -4,6 +4,7 @@
 	import Donate from '$components/home/Donate/DonateData.svelte';
 	import Overall from '$components/home/Overall/Overall.svelte';
 	import Header from '$components/home/Header/Header.svelte';
+	import Invite from '$components/home/Invite/Invite.svelte';
 	let Description =
 		'Aisha Project 2024 is a project for Aisha Thai Vtuber, In this year we are going to make an different than before, check our website for more information!';
 	let promise = fetchData();
@@ -31,6 +32,7 @@
 </script>
 
 <LayoutHeader title="Happy AISHA 21st Birthday Project " description={Description} />
+<Invite />
 <div class="mx-auto grid w-full max-w-4xl grid-cols-1 space-y-2 rounded-lg bg-gray-200 shadow-lg">
 	<div class="mx-auto h-full w-full overflow-x-hidden rounded-lg bg-white pb-9 shadow-lg md:mt-2">
 		<Header />

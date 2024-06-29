@@ -18,9 +18,6 @@
 	import AOS from 'aos';
 	import 'aos/dist/aos.css';
 
-	///
-	import { Alert, Button } from 'flowbite-svelte';
-	import { InfoCircleSolid } from 'flowbite-svelte-icons';
 
 
 	////////////////
