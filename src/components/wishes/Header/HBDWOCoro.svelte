@@ -1,5 +1,5 @@
 <script>
-	import Corousel from '$components/home/Corousel/Corousel.svelte';
+	import Corousel from '$components/wishes/Corousel/Corousel.svelte';
 </script>
 
 <div class="">
