@@ -136,6 +136,8 @@
 	</p>
 	<p class="absolute right-9 mt-4 text-xs md:text-base">Domain and Picture by:Le'Beau</p>
 	<p class="absolute right-9 mt-16 text-xs md:text-base">Initial UI/UX Design by:Puss</p>
+	<p class="absolute right-9 mt-16 text-xs md:text-base">Artist: @_cinq101 @PL_Bunnybun</p>
+
 </footer>
 
 <style>
