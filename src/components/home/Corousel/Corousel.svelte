@@ -31,9 +31,14 @@
 
 <div class="max-w-4xl h-48 md:h-[24.25rem]">
 	<iframe
+			class="ifreamYoutube"
+			frameborder="0"
+			allowfullscreen=""
+			allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+			title="HBD AISHA"
 			width="100%"
 			height="100%"
-			src="http://www.youtube.com/embed/vyR5W0PNxwo?autoplay=1&mute=1&controls=0&loop=1&playlist=vyR5W0PNxwo&enablejsapi=1&origin=https%3A%2F%2Fhokubirthday2024.polygang.fan&widgetid=1"
+			src="https://www.youtube.com/embed/vyR5W0PNxwo?autoplay=1&mute=1&controls=0&loop=1&playlist=vyR5W0PNxwo&enablejsapi=1&origin=https%3A%2F%guppiens2024.com&widgetid=1"
 			id="widget2"
 	/>
 </div>
