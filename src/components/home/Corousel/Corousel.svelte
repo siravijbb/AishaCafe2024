@@ -27,38 +27,16 @@
 	let image;
 </script>
 
-<div class="max-w-4xl">
-	<div class=" mx-auto w-auto rounded bg-gray-500 md:mt-0">
-		<Carousel
-			{images}
-			imgClass="object-contain h-full w-fit rounded-sm"
-			duration={7500}
-			let:Indicators
-			let:Controls
-			on:change={({ detail }) => (image = detail)}
-		>
-			<a slot="slide" href={images[index]?.link} target="_blank" let:Slide let:index>
-				<Slide image={images[index]} class="h-full w-fit rounded-sm object-contain" />
-			</a>
-			<Controls />
-			<Indicators />
-		</Carousel>
-	</div>
-	<div class="example mx-3 mt-2 h-10 rounded-lg bg-aisha p-2 text-center font-['itim'] text-white">
-		{image?.alt}
-	</div>
-</div>
 
-<!--
+
 <div class="max-w-4xl h-48 md:h-[24.25rem]">
 	<iframe
 			width="100%"
 			height="100%"
-			src="playlist=vyR5W0PNxwo&enablejsapi=1&origin=https%3A%2F%2Fhokubirthday2024.polygang.fan&widgetid=1"
++			src="http://www.youtube.com/embed/vyR5W0PNxwo?si=39pxriFaS8yxZ4OU?autoplay=1&loop=1&playlist=vyR5W0PNxwo?si=39pxriFaS8yxZ4OU&enablejsapi=1&origin=https%3A%2F%guppiens2024.com&widgetid=1"
 			id="widget2"
 	/>
 </div>
--->
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=IBM+Plex+Sans+Thai:wght@100;200;300;400;500;600;700&family=Itim&family=Noto+Sans+Thai+Looped:wght@100;200;300;400;500;600;700;800;900&display=swap');
