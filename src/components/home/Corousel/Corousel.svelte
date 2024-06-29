@@ -33,7 +33,7 @@
 	<iframe
 			width="100%"
 			height="100%"
-			src="http://www.youtube.com/embed/vyR5W0PNxwo?si=39pxriFaS8yxZ4OU?autoplay=1&loop=1&playlist=vyR5W0PNxwo?si=39pxriFaS8yxZ4OU&enablejsapi=1&origin=https%3A%2F%guppiens2024.com&widgetid=1"
+			src="http://www.youtube.com/embed/vyR5W0PNxwo?si=39pxriFaS8yxZ4OU?autoplay=1&loop=1&playlist=vyR5W0PNxwo?si=39pxriFaS8yxZ4OU&enablejsapi=1&origin=https%3A%2F%2Fhokubirthday2024.polygang.fan&widgetid=1"
 			id="widget2"
 	/>
 </div>

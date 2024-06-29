@@ -118,10 +118,7 @@
 	}
 </script>
 
-<Alert color="red" dismissable>
-	<InfoCircleSolid slot="icon" class="h-5 w-5" />
-	ยังไม่เปิด!!!!!!!!!!!!
-</Alert>
+
 
 <div class="space-2 mx-auto grid w-full max-w-xl grid-cols-1 rounded-lg bg-gray-200 shadow-lg">
 	<div class="mx-auto h-full w-full rounded-lg bg-white px-2 pb-4 shadow-lg md:mt-2">
