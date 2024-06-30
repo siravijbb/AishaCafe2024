@@ -17,7 +17,9 @@
 	import OFooter from '$components/footer.svelte';
 	import InviteBuild from "$components/home/Invite/InviteBuild.svelte";
 	import 'aos/dist/aos.css';
-
+	import {
+		PUBLIC_WISHES,
+	} from '$env/static/public';
 
 
 	////////////////
@@ -104,7 +106,7 @@
 	// 	}
 	// }
 	async function fetchData() {
-		const response = await fetch('https://api-guppiens.guppiens2024.com/api/Getwishes');
+		const response = await fetch(PUBLIC_WISHES);
 		if (response.ok) {
 			const json = await response.json();
 			Wishdata = json.body;
