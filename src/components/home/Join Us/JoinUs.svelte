@@ -100,7 +100,7 @@
 			</div>
 		</a>
 		<a
-			href="https://ar-code.com/KhYSZXgdn"
+			href="https://ar-code.com/KhYSZXgdn?view=preview"
 			class=" mx-auto h-fit w-fit rounded-lg bg-aisha shadow-lg hover:shadow-2xl"
 		>
 			<div
