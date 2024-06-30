@@ -9,5 +9,8 @@ declare global {
 		// interface Platform {}
 	}
 }
+declare module '$env/static/public' {
+	export const PUBLIC_WISHES: string;
+}
 
 export {};
