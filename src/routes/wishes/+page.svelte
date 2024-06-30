@@ -315,7 +315,7 @@
 											ค้นหา
 											<b class=" important inline"
 												><a class="important -ml-1 inline text-blue-600" href="/wishes/checkwish"
-													><b>ที่นี้</b></a
+													><b>ที่นี่</b></a
 												></b
 											>หรือ
 											<b class=" important inline"
@@ -538,7 +538,7 @@
 											ค้นหา
 											<b class=" important inline"
 												><a class="important -ml-1 inline text-blue-600" href="/wishes/checkwish"
-													><b>ที่นี้</b></a
+													><b>ที่นี่</b></a
 												></b
 											>หรือ
 											<b class=" important inline"
@@ -584,7 +584,7 @@
 							ค้นหา
 							<b class=" important inline"
 								><a class="important -ml-1 inline text-blue-600" href="/wishes/checkwish"
-									><b>ที่นี้</b></a
+									><b>ที่นี่</b></a
 								></b
 							>หรือ
 							<b class=" important inline"
