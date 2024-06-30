@@ -15,7 +15,7 @@
 	import HBDWOCoro from '$components/wishes/Header/HBDWOCoro.svelte';
 	import Footer from '$components/wishes/Footer/Footer.svelte';
 	import OFooter from '$components/footer.svelte';
-	import AOS from 'aos';
+	import InviteBuild from "$components/home/Invite/InviteBuild.svelte";
 	import 'aos/dist/aos.css';
 
 
@@ -120,6 +120,7 @@
 <div class="space-2 mx-auto grid w-full max-w-xl grid-cols-1 rounded-lg bg-gray-200 shadow-lg">
 	<div class="mx-auto h-full w-full rounded-lg bg-white px-2 pb-4 shadow-lg md:mt-2">
 		<LayoutHeader title="Happy AISHA 21st Birthday Project " description={Description} />
+		<InviteBuild />
 		{#await promise}
 			<HBDwithCOro />
 		{:then { Wishdata }}
