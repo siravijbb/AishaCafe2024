@@ -116,11 +116,10 @@
 </script>
 
 
-
+<InviteBuild />
 <div class="space-2 mx-auto grid w-full max-w-xl grid-cols-1 rounded-lg bg-gray-200 shadow-lg">
 	<div class="mx-auto h-full w-full rounded-lg bg-white px-2 pb-4 shadow-lg md:mt-2">
 		<LayoutHeader title="Happy AISHA 21st Birthday Project " description={Description} />
-		<InviteBuild />
 		{#await promise}
 			<HBDwithCOro />
 		{:then { Wishdata }}
