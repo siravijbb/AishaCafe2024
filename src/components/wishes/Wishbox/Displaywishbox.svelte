@@ -68,7 +68,7 @@
 								{/if}
 							</div>
 						</div>
-						<div class="relative flex h-full flex-1 flex-col px-4 py-2 pb-9">
+						<div class="relative flex h-full flex-1 flex-col px-4 py-12 pb-16">
 							<span
 								class="z-50 my-auto justify-center whitespace-pre-line text-wrap break-normal break-words text-center text-[#4E4670] sm:text-xl"
 								>{wish.comment}
@@ -148,7 +148,7 @@
 								{/if}
 							</div>
 						</div>
-						<div class="relative flex h-full flex-1 flex-col px-4 py-2 pb-9">
+						<div class="relative flex h-full flex-1 flex-col px-4 py-12 pb-16">
 							<span
 								class="z-50 my-auto justify-center whitespace-pre-line text-wrap break-normal break-words text-center text-[#4E4670] sm:text-xl"
 								>{wish.comment}
@@ -228,7 +228,7 @@
 								{/if}
 							</div>
 						</div>
-						<div class="relative flex h-full flex-1 flex-col px-4 py-2 pb-9">
+						<div class="relative flex h-full flex-1 flex-col px-4 py-12 pb-16">
 							<span
 								class="z-50 my-auto justify-center whitespace-pre-line text-wrap break-normal break-words text-center text-[#4E4670] sm:text-xl"
 								>{wish.comment}
@@ -308,7 +308,7 @@
 								{/if}
 							</div>
 						</div>
-						<div class="relative flex h-full flex-1 flex-col px-4 py-2 pb-9">
+						<div class="relative flex h-full flex-1 flex-col px-4 py-12 pb-16">
 							<span
 								class="z-50 my-auto justify-center whitespace-pre-line text-wrap break-normal break-words text-center text-[#4E4670] sm:text-xl"
 								>{wish.comment}
