@@ -1,10 +1,13 @@
 <script>
 	import '../app.pcss';
 	import Navbar from '$components/navbar.svelte';
+	import InviteSlogan from "$components/home/Invite/InviteSlogan.svelte";
+
 </script>
 
 <body>
 	<Navbar />
+	<InviteSlogan />
 	<slot />
 </body>
 

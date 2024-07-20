@@ -34,7 +34,6 @@
 
 <LayoutHeader title="Happy AISHA 21st Birthday Project " description={Description} />
 <Invite />
-<InviteBuild />
 
 <div class="mx-auto grid w-full max-w-4xl grid-cols-1 space-y-2 rounded-lg bg-gray-200 shadow-lg">
 	<div class="mx-auto h-full w-full overflow-x-hidden rounded-lg bg-white pb-9 shadow-lg md:mt-2">
