@@ -17,7 +17,7 @@
 		<div class="mx-auto my-auto text-center md:text-2xl">
 			<p class="font-bold">✨GOAL✨</p>
 			<ol class="font-bold">
-				<li>LED Billboard 40,000 บาท</li>
+				<li><a class="text-blue-600" target="_blank" href="https://x.com/LeBeau_u/status/1815275695444230158">LED Billboard 40,000 บาท</a></li>
 				<li>Happy birthday cake 47,000 บาท</li>
 				<li>Chatime 60,000 บาท</li>
 			</ol>
