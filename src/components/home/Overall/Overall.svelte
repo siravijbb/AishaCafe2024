@@ -18,8 +18,8 @@
 			<p class="font-bold">✨GOAL✨</p>
 			<ol class="font-bold">
 				<li><a class="text-blue-600" target="_blank" href="https://x.com/LeBeau_u/status/1815275695444230158">LED Billboard 40,000 บาท</a></li>
-				<li>Happy birthday cake 47,000 บาท</li>
-				<li>Chatime 60,000 บาท</li>
+				<li><a class="text-blue-600" target="_blank" href="https://x.com/lebeau_u/status/1817231822058885335?s=46&t=eQRpLvywmjVxbRWByOFx-w">Happy birthday cake 47,000 บาท</a></li>
+				<li><a class="text-blue-600" target="_blank" href="https://x.com/lebeau_u/status/1817806948907340279?s=46&t=eQRpLvywmjVxbRWByOFx-w">Chatime 60,000 บาท</a></li>
 			</ol>
 		</div>
 		<div class="mx-auto md:mx-8">
