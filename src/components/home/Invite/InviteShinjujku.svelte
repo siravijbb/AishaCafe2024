@@ -5,7 +5,7 @@
 </script>
 
 
-<Alert color="red" dismissable>
+<Alert color="blue" dismissable>
     <InfoCircleSolid slot="icon" class="w-5 h-5" />
-อย่าลืมหยิบSlogan หน้างานด้วย! Don't forgot to take slogan at Event!
+    Happy Birthday Aisha! Aisha in <a href="https://x.com/LeBeau_u/status/1817710916596871279">Shinjuku!</a>
 </Alert>
