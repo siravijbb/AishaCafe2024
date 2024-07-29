@@ -7,5 +7,5 @@
 
 <Alert color="blue" dismissable>
     <InfoCircleSolid slot="icon" class="w-5 h-5" />
-    Happy Birthday Aisha! Aisha in <a href="https://x.com/LeBeau_u/status/1817710916596871279">Shinjuku!</a>
+    Happy Birthday Aisha! Aisha in <a class="underline" href="https://x.com/LeBeau_u/status/1817710916596871279">Shinjuku!</a>
 </Alert>
