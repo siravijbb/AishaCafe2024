@@ -130,13 +130,13 @@
 	</div>
 	<div class="mx-4 -mt-3 h-full border-l-2 border-gray-300"></div>
 
-	<p class="absolute right-9 -mt-24">© {new Date().getFullYear()} Guppiens Project</p>
-	<p class="absolute right-4 -mt-12 text-xs md:right-9 md:text-base">
+	<p class="absolute right-4 md:right-9 -mt-24">© {new Date().getFullYear()} Guppiens Project</p>
+	<p class="absolute right-4 -mt-12 text-[0.7rem] md:right-9 md:text-base">
 		Web Dev And Redesign by:สิราวิ้จจะบึ
 	</p>
-	<p class="absolute right-9 -mt-1 text-xs md:text-base">Domain and Picture by:Le'Beau</p>
-	<p class="absolute right-9 mt-10 text-xs md:text-base">Initial UI/UX Design by:Puss</p>
-	<p class="absolute right-9 mt-20 text-xs md:text-base">Artist: @_cinq101 @PL_Bunnybun</p>
+	<p class="absolute right-4 md:right-9 -mt-1 text-xs md:text-base">Domain and Picture by:Le'Beau</p>
+	<p class="absolute right-4 md:right-9 mt-10 text-xs md:text-base">Initial UI/UX Design by:Puss</p>
+	<p class="absolute right-4 md:right-9  mt-20 text-xs md:text-base">Artist: @_cinq101 @PL_Bunnybun</p>
 
 </footer>
 
